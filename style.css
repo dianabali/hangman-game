@@ -89,7 +89,7 @@ h1 {
 }
 
 .popup {
-    background-color: #196d6d;
+    background-color: #5395bc;
     border-radius: 10px;
     box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -99,7 +99,7 @@ h1 {
 .popup button {
     cursor: pointer;
     background-color: white;
-    color: #196d6d;
+    color: #286283;
     border: 0;
     border-radius: 5px;
     padding: 12px 20px;
