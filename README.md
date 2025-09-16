@@ -22,3 +22,9 @@ A simple browser-based Hangman game built with HTML, CSS, and JavaScript. The pl
 # Preview
 Hangman game:
 ![Screenshot](preview/img-1.png)
+
+You won:
+![Screenshot](preview/img-3.png)
+
+You lost:
+![Screenshot](preview/img-2.png)
