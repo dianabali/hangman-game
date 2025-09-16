@@ -19,7 +19,7 @@ A simple browser-based Hangman game built with HTML, CSS, and JavaScript. The pl
 2. Open ``index.html`` in any modern web browser.
 3. Start playing Hangman.
 
-# Preview
+### Images
 Hangman game:
 ![Screenshot](preview/img-1.png)
 
