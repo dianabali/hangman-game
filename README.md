@@ -15,7 +15,7 @@ A simple browser-based Hangman game built with HTML, CSS, and JavaScript. The pl
 - **Vanilla Javascript** for game logic.
 
 ## Setup instructions
-1. Clone or download this repository.
+1. Clone or download this repository: ``git clone https://github.com/dianabali/hangman-game.git``
 2. Open ``index.html`` in any modern web browser.
 3. Start playing Hangman.
 
